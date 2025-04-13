@@ -1,2 +1,2 @@
 # SlideBoard
-A PowerPoint Add_in for teaching
+A PowerPoint Add-in for teaching
